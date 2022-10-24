@@ -1,4 +1,4 @@
-## easyseo plugin for GitBook
+##  plugin for GitBook
 
 Plugin for [GitBook](https://github.com/GitbookIO/gitbook) which enables user to 
 customerize "description" and "keywords" of each page.
